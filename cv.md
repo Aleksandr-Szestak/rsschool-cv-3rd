@@ -13,6 +13,7 @@ I like to learn and develop new skills.
 - Git/GitHub
 - VSCode, Replit, Figma
 ### Code example:
+```JavaScript
 function outMax(n){
   let maxSt = 0;
   let a = Math.abs(n);
@@ -24,6 +25,7 @@ function outMax(n){
   }
   return maxSt;
 }
+```
 ### Education:
 - BSUIR, Computer systems and networks
 - RS School Stage0
